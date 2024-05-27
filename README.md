@@ -1,4 +1,4 @@
 # jamil-demo
 this is my first repository.
 <br>
-author - jamil
+author - jamil trinadh
