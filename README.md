@@ -1,2 +1,3 @@
-# jamil_demo
+# jamil-demo
 this is my first repository.
+author - jamil
